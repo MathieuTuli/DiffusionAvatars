@@ -1,6 +1,9 @@
-# Community Implementation of StyleAvatar3D
+# Diffusion Avatars
 
-As the original authors for StyleAvatar3D were unable to publish their code, I decided to work on my own reimplementation of their paper. Star this repo and tag along and if you'd like to help out, let me know! I've only just started so if you're seeing this, come back in two weeks hopefully, there's more completed :)
+As the original authors for StyleAvatar3D were unable to publish their code, I decided to work on my own reimplementation of their paper. This will be both a reimplementation of the training and testing pipeline, but will also have additional tooling for generating and using these avatars in practice.
+
+Star this repo and tag along and if you'd like to help out, let me know! 
+I've only just started so if you're seeing this, come back in two weeks hopefully, there's more completed :)
 
 The original paper: [StyleAvatar3D](https://arxiv.org/abs/2305.19012)
 
